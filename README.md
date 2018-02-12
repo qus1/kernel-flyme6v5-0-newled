@@ -8,7 +8,7 @@ HOW TO COMPILE
 
 ###1. Download source code###
 
-  <code>git clone https://github.com/qus1/kernel-flyme6v5-0.git</code>
+  <code>git clone https://github.com/qus1/kernel-flyme6v5-0-newled.git</code>
 
 ###2. Compiling###
 
